@@ -14,12 +14,12 @@ DB Design:
 
 ![DB](https://user-images.githubusercontent.com/51369830/119294958-da0bb180-bc7f-11eb-9ece-a40d993c1569.PNG)
 
-======================================================================================================
+===========================================================================
 Software development principles, patterns & practices being applied:
 
 3 layers : Controllers - Services - Repositories.
 
-=======================================================================================================
+===========================================================================
 
 Folder structure and the key Java libraries and frameworks being used:
 
@@ -37,7 +37,7 @@ Libraries/Frameworks:
 _ Spring Boot:	Today's de-facto standard that Java applications cannot be without.
 _ Spring Data Jpa:	More abstraction above Hibernate ORM libs leads to faster development.
 
-=======================================================================================================
+===========================================================================
 
 Required steps in order to get the application run on a local computer:
 
